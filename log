@@ -1,0 +1,127 @@
+2020/11/24 22:05:28 Fetching https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Achievement.csv...
+2020/11/24 22:05:29 Got 2647 achievements
+2020/11/24 22:05:29 Reading stdin...
+2020/11/24 22:05:29 [33mFalling back to description match for copperbell mines (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for haukke manor (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for halatali (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for brayflox's longstop (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for stone vigil (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for tam-tara deepcroft (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for sastasha (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for sunken temple of qarn (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for wanderer's palace (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for amdapor keep (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for pharos sirius (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for lost city of amdapor (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for hullbreaker isle (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for great gubal library (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for sohm al (hard)[0m
+2020/11/24 22:05:29 [33mFalling back to description match for sirensong sea[0m
+2020/11/24 22:05:29 [33mFalling back to description match for drowned city of skalla[0m
+2020/11/24 22:05:30 [33mFalling back to description match for fractal continuum (hard)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for saint mocianne's arboretum (hard)[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for allagan tomestone of allegory 20[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for allagan tomestone of allegory 20[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for allagan tomestone of allegory 20[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for allagan tomestone of allegory 50[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for allagan tomestone of allegory 50[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for allagan tomestone of allegory 50[0m
+2020/11/24 22:05:30 [33mFalling back to description match for bowl of embers[0m
+2020/11/24 22:05:30 [33mFalling back to description match for howling eye[0m
+2020/11/24 22:05:30 [33mFalling back to description match for cape westwind[0m
+2020/11/24 22:05:30 [33mFalling back to description match for chrysalis[0m
+2020/11/24 22:05:30 [33mFalling back to description match for steps of faith[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for a relic reborn: the chimera[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for a relic reborn: the hydra[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for battle on the big bridge[0m
+2020/11/24 22:05:30 [33mFalling back to description match for dragon's neck[0m
+2020/11/24 22:05:30 [33mFalling back to description match for battle in the big keep[0m
+2020/11/24 22:05:30 [33mFalling back to description match for bowl of embers (hard)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for howling eye (hard)[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for navel (hard)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for thornmarch (hard)[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for whorleater (hard)[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for striking tree (hard)[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for akh afah amphitheatre (hard)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for urth's fount[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for minstrel's ballad: ultima's bane[0m
+2020/11/24 22:05:30 [33mFalling back to description match for howling eye (extreme)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for navel (extreme)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for bowl of embers (extreme)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for thornmarch (extreme)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for whorleater (extreme)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for striking tree (extreme)[0m
+2020/11/24 22:05:30 [33mFalling back to description match for akh afah amphitheatre (extreme)[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for thok ast thok (hard)[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for limitless blue (hard)[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for singularity reactor[0m
+2020/11/24 22:05:30 [31mCould not find an achievement for final steps of faith[0m
+2020/11/24 22:05:31 [33mFalling back to description match for containment bay s1t7[0m
+2020/11/24 22:05:31 [33mFalling back to description match for containment bay p1t6[0m
+2020/11/24 22:05:31 [33mFalling back to description match for containment bay z1t9[0m
+2020/11/24 22:05:31 [33mFalling back to description match for limitless blue (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for thok ast thok (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for minstrel's ballad: thordan's reign[0m
+2020/11/24 22:05:31 [33mFalling back to description match for minstrel's ballad: nidhogg's rage[0m
+2020/11/24 22:05:31 [33mFalling back to description match for containment bay s1t7 (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for containment bay p1t6 (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for containment bay z1t9 (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for pool of tribute[0m
+2020/11/24 22:05:31 [31mCould not find an achievement for royal menagerie[0m
+2020/11/24 22:05:31 [33mFalling back to description match for jade stoa[0m
+2020/11/24 22:05:31 [31mCould not find an achievement for castrum fluminis[0m
+2020/11/24 22:05:31 [33mFalling back to description match for hells' kier[0m
+2020/11/24 22:05:31 [33mFalling back to description match for wreath of snakes[0m
+2020/11/24 22:05:31 [33mFalling back to description match for kugane ohashi[0m
+2020/11/24 22:05:31 [33mFalling back to description match for emanation (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for pool of tribute (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for minstrel's ballad: shinryu's domain[0m
+2020/11/24 22:05:31 [33mFalling back to description match for jade stoa (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for minstrel's ballad: tsukuyomi's pain[0m
+2020/11/24 22:05:31 [33mFalling back to description match for great hunt (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for hells' kier (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for wreath of snakes (extreme)[0m
+2020/11/24 22:05:31 [33mFalling back to description match for dancing plague[0m
+2020/11/24 22:05:31 [33mFalling back to description match for crown of the immaculate[0m
+2020/11/24 22:05:31 [33mFalling back to description match for dying gasp[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 5[0m
+2020/11/24 22:05:32 [33mFalling back to description match for cinder drift[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 6[0m
+2020/11/24 22:05:32 [33mFalling back to description match for seat of sacrifice[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 7[0m
+2020/11/24 22:05:32 [33mFalling back to description match for dancing plague (extreme)[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 8[0m
+2020/11/24 22:05:32 [33mFalling back to description match for crown of the immaculate (extreme)[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 8[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for akh afah amphitheatre (unreal)[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 8[0m
+2020/11/24 22:05:32 [33mFalling back to description match for minstrel's ballad: hades's elegy[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 10[0m
+2020/11/24 22:05:32 [33mFalling back to description match for cinder drift (extreme)[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 13[0m
+2020/11/24 22:05:32 [33mFalling back to description match for memoria misera (extreme)[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 13[0m
+2020/11/24 22:05:32 [33mFalling back to description match for seat of sacrifice (extreme)[0m
+2020/11/24 22:05:32 [31mCould not find an achievement for allagan tomestone of allegory 13[0m
+2020/11/24 22:05:32 [33mFalling back to description match for second coil of bahamut (savage)[0m
+2020/11/24 22:05:32 [33mFalling back to description match for alexander: gordias[0m
+2020/11/24 22:05:32 [33mFalling back to description match for alexander: gordias (savage)[0m
+2020/11/24 22:05:32 [33mFalling back to description match for alexander: midas[0m
+2020/11/24 22:05:32 [33mFalling back to description match for alexander: midas (savage)[0m
+2020/11/24 22:05:32 [33mFalling back to description match for alexander (savage)[0m
+2020/11/24 22:05:32 [33mFalling back to description match for omega: deltascape[0m
+2020/11/24 22:05:32 [33mFalling back to description match for omega: deltascape (savage)[0m
+2020/11/24 22:05:32 [33mFalling back to description match for unending coil of bahamut (ultimate)[0m
+2020/11/24 22:05:32 [33mFalling back to description match for omega: sigmascape[0m
+2020/11/24 22:05:32 [33mFalling back to description match for omega: sigmascape (savage)[0m
+2020/11/24 22:05:32 [33mFalling back to description match for weapon's refrain (ultimate)[0m
+2020/11/24 22:05:33 [33mFalling back to description match for omega: alphascape[0m
+2020/11/24 22:05:33 [33mFalling back to description match for omega: alphascape (savage)[0m
+2020/11/24 22:05:33 [33mFalling back to description match for eden's gate[0m
+2020/11/24 22:05:33 [31mCould not find an achievement for allagan tomestone of allegory 5[0m
+2020/11/24 22:05:33 [33mFalling back to description match for eden's gate (savage)[0m
+2020/11/24 22:05:33 [33mFalling back to description match for epic of alexander (ultimate)[0m
+2020/11/24 22:05:33 [33mFalling back to description match for eden's verse[0m
+2020/11/24 22:05:33 [31mCould not find an achievement for allagan tomestone of allegory 10[0m
+2020/11/24 22:05:33 [33mFalling back to description match for eden's verse (savage)[0m
+2020/11/24 22:05:33 [33mFalling back to description match for royal city of rabanastre[0m
