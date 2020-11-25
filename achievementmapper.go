@@ -4,9 +4,9 @@ import (
 	"bufio"
 	"encoding/csv"
 	"encoding/json"
-	"github.com/fatih/color"
+	"flag"
 	"github.com/renstrom/fuzzysearch/fuzzy"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net/http"
 	"os"
 	"regexp"
@@ -18,12 +18,19 @@ import (
 const achievements = "https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Achievement.csv"
 
 var patches = map[string]string{
-	"alexander: the creator": "alexander",
-	"alexander: the creator (savage)": "alexander (savage)",
+	"alexander: the creator":                             "alexander",
+	"alexander: the creator (savage)":                    "alexander (savage)",
 	"minstrel's ballad: the weapon's refrain (ultimate)": "weapon's refrain (ultimate)",
 }
 
 func main() {
+	loglvl := flag.String("level", "info", "Log level")
+	flag.Parse()
+
+	if level, err := log.ParseLevel(*loglvl); err == nil {
+		log.SetLevel(level)
+	}
+
 	log.Printf("Fetching %s...", achievements)
 	achCsvResponse, err := http.Get(achievements)
 	if err != nil {
@@ -91,18 +98,20 @@ type records struct {
 }
 
 func (r *records) findBest(duty string) int {
-	if results := fuzzy.RankFindFold("mapping " + duty, r.names); len(results) > 0 {
+	if results := fuzzy.RankFindFold("mapping "+duty, r.names); len(results) > 0 {
 		sort.Sort(results)
+		log.Debugf("Matching with 'mapping' strategy (%d)\n%s\n%s", results[0].Distance, duty, results[0].Target)
 		return r.ids[results[0].OriginalIndex]
 	} else if results := fuzzy.RankFindFold(duty, r.names); len(results) > 0 {
 		sort.Sort(results)
+		log.Debugf("Matching with 'name' strategy (%d)\n> %s\n> %s", results[0].Distance, duty, results[0].Target)
 		return r.ids[results[0].OriginalIndex]
 	} else if results := fuzzy.RankFindFold(duty, r.descriptions); len(results) > 0 {
-		log.Printf(color.YellowString("Falling back to description match for %s", duty))
 		sort.Sort(results)
+		log.Warnf("Matching with 'description' strategy (%d)\n%s\n%s", results[0].Distance, duty, results[0].Target)
 		return r.ids[results[0].OriginalIndex]
 	} else {
-		log.Println(color.RedString("Could not find an achievement for %s", duty))
+		log.Errorf("Could not find a match for %s", duty)
 	}
 
 	return -1
